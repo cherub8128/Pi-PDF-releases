@@ -1,0 +1,27 @@
+Copyright (c) 2026 Pi Dimension. All rights reserved.
+
+이 저장소에서 배포되는 실행 파일에 대한 모든 권리는 저작권자에게 있습니다.
+저작권자의 사전 서면 허락 없이 복제, 재배포, 수정, 역컴파일, 역어셈블할 수 없습니다.
+개인 및 사내에서 설치하여 사용하는 것은 허용됩니다.
+
+이 소프트웨어에 포함된 제3자 오픈소스 구성요소는 각각의 라이선스를 따릅니다.
+전체 목록과 라이선스 원문은 THIRD-PARTY-NOTICES.md 및 앱 내 [설정 → 정보]를 참고하십시오.
+
+---
+
+Copyright (c) 2026 Pi Dimension. All rights reserved.
+
+All rights in the executables distributed from this repository are reserved by
+the copyright holder. They may not be reproduced, redistributed, modified,
+decompiled, or disassembled without prior written permission. Installing and
+using the software personally or within an organisation is permitted.
+
+Third-party open-source components remain subject to their own licences. See
+THIRD-PARTY-NOTICES.md, or [Settings > About] inside the app.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
