@@ -1,0 +1,45 @@
+# Puts the one-line list of Pi-Dimension apps at the top of every release's notes.
+# Runs when this file changes (updates all releases) and when a release is published.
+# To change the line, edit APP_LINE below; the old line is recognised by its marker and replaced.
+name: app-links
+
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/app-links.yml]
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Add the app line to release notes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          APP_LINE: "**Pi-Dimension 앱** — [Pi Image (이미지·만화 뷰어)](https://github.com/cherub8128/Pi-Image-Releases) · [Pi Player (동영상·음악 플레이어)](https://github.com/cherub8128/Pi-Player-Releases) · [Pi Zip (압축)](https://github.com/cherub8128/Pi-Zip-release) · [Pi PDF (PDF 편집)](https://github.com/cherub8128/Pi-PDF-releases) <!-- pi-apps -->"
+        run: |
+          gh release list -R "$GITHUB_REPOSITORY" --limit 500 --json tagName --jq '.[].tagName' > tags.txt
+          while read -r tag; do
+            gh release view "$tag" -R "$GITHUB_REPOSITORY" --json body --jq .body > old.md
+            python3 - <<'PY'
+          import os
+          line = os.environ["APP_LINE"]
+          old = open("old.md", encoding="utf-8").read().rstrip("\n")
+          rest = "\n".join(l for l in old.split("\n") if "<!-- pi-apps -->" not in l).lstrip("\n")
+          new = line + "\n\n" + rest if rest else line
+          open("new.md", "w", encoding="utf-8").write(new + "\n")
+          open("changed", "w").write("1" if new != old else "0")
+          PY
+            if [ "$(cat changed)" = 1 ]; then
+              gh release edit "$tag" -R "$GITHUB_REPOSITORY" --notes-file new.md
+              echo "updated $tag"
+            else
+              echo "unchanged $tag"
+            fi
+          done < tags.txt
