@@ -37,7 +37,7 @@ Pi PDF의 코드, 디자인, 이름과 원본 아이콘에 대한 권리는 제�
 다만 제공자의 고의 또는 중대한 과실로 인한 손해, 사람의 생명·신체에 대한 손해, 그리고 관련 법령상 배제하거나 제한할 수 없는 책임에는 이 조항이 적용되지 않습니다.
 
 9. 보안 문제 신고
-프로그램에서 보안 취약점을 발견하면 공개하기 전에 cherub8128@gmail.com 로 알려 주세요. 제공자는 신고를 검토하고 필요하면 수정판을 내도록 노력합니다. 이는 수정 시기나 결과를 보증하는 것이 아닙니다.
+프로그램에서 보안 취약점을 발견하면 공개하기 전에 support@pi-dimension.com 로 알려 주세요. 제공자는 신고를 검토하고 필요하면 수정판을 내도록 노력합니다. 이는 수정 시기나 결과를 보증하는 것이 아닙니다.
 
 10. 사용자의 의무
 사용자는 법령과 이 약관을 지키며 프로그램을 사용해야 합니다. 사용자가 이를 위반하여 제3자와 분쟁이 생기면 사용자가 자신의 책임과 비용으로 해결합니다. 다만 그 분쟁이 제공자의 고의 또는 과실로 생긴 경우에는 그렇지 않습니다.
@@ -55,7 +55,7 @@ Pi PDF의 코드, 디자인, 이름과 원본 아이콘에 대한 권리는 제�
 이 약관은 대한민국 법률에 따라 해석됩니다. 이 약관과 관련한 분쟁의 관할 법원은 「민사소송법」에 따릅니다. 사용자가 사는 나라의 소비자 보호 강행규정이 사용자에게 더 유리한 권리를 보장하면 그 권리는 이 약관으로 제한되지 않습니다.
 
 15. 문의
-cherub8128@gmail.com · https://github.com/cherub8128/Pi-PDF-releases/issues
+support@pi-dimension.com · https://github.com/cherub8128/Pi-PDF-releases/issues
 
 ----------------------------------------------------------------------
 
@@ -68,6 +68,6 @@ You may install and use Pi PDF free of charge for personal, educational, non-pro
 
 THE SOFTWARE IS PROVIDED FREE OF CHARGE "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THAT IT IS FREE OF DEFECTS, ERRORS OR SECURITY VULNERABILITIES, FIT FOR A PARTICULAR PURPOSE, COMPATIBLE WITH YOUR FILES OR SYSTEMS, OR THAT DATA WILL NOT BE LOST, OR THAT UPDATES OR SUPPORT WILL BE PROVIDED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PI-DIMENSION IS NOT LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF DATA, PROFITS OR BUSINESS, EVEN IF ADVISED OF THEIR POSSIBILITY, AND ITS TOTAL LIABILITY IS LIMITED TO THE AMOUNT YOU PAID FOR THE SOFTWARE (ZERO FOR A FREE COPY). This does not limit liability for intentional misconduct or gross negligence, for death or personal injury, or any liability or consumer right that cannot be excluded by law.
 
-Please report security issues privately to cherub8128@gmail.com before disclosing them. Third-party components keep their own licences, which take precedence (see THIRD_PARTY_NOTICES and the licenses directory). If obtained from the Microsoft Store, these terms supplement Microsoft's Standard Application License Terms; Microsoft is not a party to them and has no support or warranty obligation for the software. If any provision is invalid, the rest remains in effect. Governed by the laws of the Republic of Korea; mandatory consumer protections of your country of residence are not affected.
+Please report security issues privately to support@pi-dimension.com before disclosing them. Third-party components keep their own licences, which take precedence (see THIRD_PARTY_NOTICES and the licenses directory). If obtained from the Microsoft Store, these terms supplement Microsoft's Standard Application License Terms; Microsoft is not a party to them and has no support or warranty obligation for the software. If any provision is invalid, the rest remains in effect. Governed by the laws of the Republic of Korea; mandatory consumer protections of your country of residence are not affected.
 
-Contact: cherub8128@gmail.com · https://github.com/cherub8128/Pi-PDF-releases/issues
+Contact: support@pi-dimension.com · https://github.com/cherub8128/Pi-PDF-releases/issues
