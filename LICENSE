@@ -1,27 +1,73 @@
-Copyright (c) 2026 Pi Dimension. All rights reserved.
+﻿Pi PDF 무료 사용 독점 소프트웨어 이용약관
+버전 1.1 · 2026-10-01
 
-이 저장소에서 배포되는 실행 파일에 대한 모든 권리는 저작권자에게 있습니다.
-저작권자의 사전 서면 허락 없이 복제, 재배포, 수정, 역컴파일, 역어셈블할 수 없습니다.
-개인 및 사내에서 설치하여 사용하는 것은 허용됩니다.
+Copyright (c) 2026 Pi-Dimension. All rights reserved.
 
-이 소프트웨어에 포함된 제3자 오픈소스 구성요소는 각각의 라이선스를 따릅니다.
-전체 목록과 라이선스 원문은 THIRD-PARTY-NOTICES.md 및 앱 내 [설정 → 정보]를 참고하십시오.
+이 약관은 Pi-Dimension(이하 "제공자")이 무상으로 제공하는 Pi PDF(실행 프로그램(데스크톱 앱과 웹 버전), 함께 배포되는 파일과 업데이트를 포함하며, 이하 "프로그램")의 이용 조건을 정합니다. 프로그램을 설치하거나 사용하면 이 약관에 동의한 것으로 봅니다. 동의하지 않으면 프로그램을 설치하거나 사용하지 마세요.
 
----
+1. 무료 사용 허용
+제공자는 공식 배포처에서 받은 프로그램을 개인, 교육, 비영리 및 회사·기관의 업무용으로 무료로 설치하고 사용할 수 있는 비독점적 이용권을 부여합니다. 허용된 사용에 필요한 기기 내 복제와 백업, 같은 조직이 관리하는 기기에 대한 내부 설치·배포도 허용합니다. 사용 기간이나 기기 수 제한은 없습니다.
 
-Copyright (c) 2026 Pi Dimension. All rights reserved.
+2. 소유권
+Pi PDF의 코드, 디자인, 이름과 원본 아이콘에 대한 권리는 제공자에게 있습니다. 이 약관은 프로그램 소스의 공개, 수정, 재라이선스 또는 소유권 이전을 허락하지 않습니다.
 
-All rights in the executables distributed from this repository are reserved by
-the copyright holder. They may not be reproduced, redistributed, modified,
-decompiled, or disassembled without prior written permission. Installing and
-using the software personally or within an organisation is permitted.
+3. 판매 및 재배포 제한
+별도 서면 허락 없이 프로그램을 판매·대여·재판매하거나 유료 상품에 묶어 팔 수 없습니다. 설치 파일의 외부 미러링·재업로드, 수정본이나 재포장본의 배포도 허용하지 않습니다. 공식 다운로드 페이지의 링크를 공유하는 것은 허용합니다. 저작권 및 라이선스 고지를 지우지 마세요. 이는 1항의 업무용 사용과 내부 설치를 금지하지 않습니다.
 
-Third-party open-source components remain subject to their own licences. See
-THIRD-PARTY-NOTICES.md, or [Settings > About] inside the app.
+4. 공식 배포처
+공식 배포처는 https://github.com/cherub8128/Pi-PDF-releases, https://pi-dimension.com/pages/pdf-editor와 Microsoft Store(등록된 경우)뿐입니다. 공식 배포처가 아닌 곳에서 받은 사본은 변조되었거나 악성코드가 들어 있을 수 있으며, 제공자는 그런 사본과 그로 인한 결과에 책임지지 않습니다.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+5. 사용자 파일과 콘텐츠
+프로그램으로 여는 파일과 그 내용의 권리는 원래 권리자에게 있으며, 그 파일을 열고 사용할 권한이 있는지는 사용자가 확인해야 합니다. 프로그램 이용허락은 콘텐츠의 이용허락을 대신하지 않습니다. 문서를 편집하거나, 암호를 풀거나, 페이지·이미지를 꺼내 쓸 권한이 있는지는 사용자가 확인해야 합니다. Pi PDF는 그런 권한을 주지 않습니다. 출처를 알 수 없거나 신뢰할 수 없는 파일은 열지 마세요. 악의적으로 만든 파일은 어떤 소프트웨어에서든 오작동이나 보안 문제를 일으킬 수 있습니다.
+
+6. 데이터 보관 책임
+사용자는 중요한 파일을 미리 백업해야 합니다. 프로그램이 파일을 쓰거나 바꾸는 작업(저장과 덮어쓰기, 페이지·이미지 삭제, 암호 없이 저장 등)을 하기 전에, 원본을 잃어도 되는지 확인하는 것은 사용자의 책임입니다. 원본을 남겨야 하는 문서는 "다른 이름으로" 저장하세요.
+
+7. 무보증
+프로그램은 무상으로 "현 상태 그대로(AS IS)" 제공됩니다. 관련 법령이 허용하는 최대 범위에서, 제공자는 명시적이든 묵시적이든 다음을 포함한 어떠한 보증도 하지 않습니다.
+- 프로그램에 오류·결함이나 보안 취약점이 없다는 것
+- 프로그램이 특정 목적에 맞거나, 중단 없이 동작하거나, 모든 파일·기기·운영체제와 호환된다는 것
+- 데이터가 손실되거나 손상되지 않는다는 것
+- 업데이트, 수정, 기술 지원을 계속 제공한다는 것
+제공자는 공식 배포 파일을 배포 전에 검사하는 등 합리적인 주의를 기울이지만, 그것이 위 사항을 보증하는 것은 아닙니다.
+
+8. 책임의 제한
+관련 법령이 허용하는 최대 범위에서, 제공자는 프로그램의 사용 또는 사용할 수 없음과 관련하여 생긴 다음 손해에 책임지지 않습니다. 데이터의 손실·손상, 영업 손실, 기대 이익의 상실, 업무 중단, 기기나 다른 소프트웨어의 손상, 그 밖의 간접적·부수적·특별·결과적 손해가 여기에 해당합니다. 이는 제공자가 그런 손해의 가능성을 알았던 경우에도 같습니다.
+위 범위에서, 그 밖의 손해에 대한 제공자의 책임 총액은 사용자가 프로그램을 얻기 위해 제공자에게 실제로 지급한 금액(무상 제공의 경우 0원)을 한도로 합니다.
+다만 제공자의 고의 또는 중대한 과실로 인한 손해, 사람의 생명·신체에 대한 손해, 그리고 관련 법령상 배제하거나 제한할 수 없는 책임에는 이 조항이 적용되지 않습니다.
+
+9. 보안 문제 신고
+프로그램에서 보안 취약점을 발견하면 공개하기 전에 cherub8128@gmail.com 로 알려 주세요. 제공자는 신고를 검토하고 필요하면 수정판을 내도록 노력합니다. 이는 수정 시기나 결과를 보증하는 것이 아닙니다.
+
+10. 사용자의 의무
+사용자는 법령과 이 약관을 지키며 프로그램을 사용해야 합니다. 사용자가 이를 위반하여 제3자와 분쟁이 생기면 사용자가 자신의 책임과 비용으로 해결합니다. 다만 그 분쟁이 제공자의 고의 또는 과실로 생긴 경우에는 그렇지 않습니다.
+
+11. 제3자 구성요소와 Microsoft Store
+오픈소스 라이브러리, 런타임, 글꼴 등 제3자 구성요소에는 그 구성요소의 원래 라이선스가 우선 적용되며, 이 약관은 그 라이선스가 보장하는 사용, 수정, 역공학, 복제, 재배포 또는 소스 접근 권리를 줄이지 않습니다. 목록과 전문은 함께 배포된 THIRD_PARTY_NOTICES 파일과 licenses 디렉터리에 있습니다. Microsoft Store에서 받은 경우 Microsoft 표준 애플리케이션 사용 조건에 이 약관이 추가로 적용되며, 둘이 충돌하면 이 약관이 사용자에게 더 넓은 권리를 주는 범위에서만 이 약관이 우선합니다. Microsoft는 이 약관의 당사자가 아니며 프로그램에 대한 지원·보증 책임이 없습니다.
+
+12. 약관의 적용과 변경
+이 약관은 함께 배포된 프로그램 버전에 적용됩니다. 제공자는 새 버전에서 약관을 바꿀 수 있으며, 바뀐 약관은 그 버전부터 적용되고 이미 받은 버전의 이용허락을 소급해 줄이지 않습니다. 사용자가 이 약관을 중대하게 위반하면 해당 사용에 대한 이용허락은 종료됩니다.
+
+13. 일부 조항의 효력
+이 약관의 일부 조항이 무효이거나 집행할 수 없더라도 나머지 조항은 효력을 유지하며, 무효인 조항은 법령이 허용하는 범위에서 원래 취지에 가장 가깝게 해석합니다.
+
+14. 준거법과 관할
+이 약관은 대한민국 법률에 따라 해석됩니다. 이 약관과 관련한 분쟁의 관할 법원은 「민사소송법」에 따릅니다. 사용자가 사는 나라의 소비자 보호 강행규정이 사용자에게 더 유리한 권리를 보장하면 그 권리는 이 약관으로 제한되지 않습니다.
+
+15. 문의
+cherub8128@gmail.com · https://github.com/cherub8128/Pi-PDF-releases/issues
+
+----------------------------------------------------------------------
+
+Pi PDF Free-to-Use Proprietary License
+Version 1.1 · 2026-10-01 (English summary — the Korean text above is authoritative)
+
+Copyright (c) 2026 Pi-Dimension. All rights reserved.
+
+You may install and use Pi PDF free of charge for personal, educational, non-profit and business purposes, including internal deployment within your organisation. You may not sell, rent or redistribute it, or distribute modified or repackaged builds, without written permission; sharing a link to the official download page is allowed. Official sources are https://github.com/cherub8128/Pi-PDF-releases, https://pi-dimension.com/pages/pdf-editor and the Microsoft Store; copies from anywhere else may be tampered with, and Pi-Dimension is not responsible for them. Make sure you have the right to use the files you open, open only files you trust, and back up important files before saving over files, deleting pages or images, or saving without a password.
+
+THE SOFTWARE IS PROVIDED FREE OF CHARGE "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THAT IT IS FREE OF DEFECTS, ERRORS OR SECURITY VULNERABILITIES, FIT FOR A PARTICULAR PURPOSE, COMPATIBLE WITH YOUR FILES OR SYSTEMS, OR THAT DATA WILL NOT BE LOST, OR THAT UPDATES OR SUPPORT WILL BE PROVIDED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, PI-DIMENSION IS NOT LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF DATA, PROFITS OR BUSINESS, EVEN IF ADVISED OF THEIR POSSIBILITY, AND ITS TOTAL LIABILITY IS LIMITED TO THE AMOUNT YOU PAID FOR THE SOFTWARE (ZERO FOR A FREE COPY). This does not limit liability for intentional misconduct or gross negligence, for death or personal injury, or any liability or consumer right that cannot be excluded by law.
+
+Please report security issues privately to cherub8128@gmail.com before disclosing them. Third-party components keep their own licences, which take precedence (see THIRD_PARTY_NOTICES and the licenses directory). If obtained from the Microsoft Store, these terms supplement Microsoft's Standard Application License Terms; Microsoft is not a party to them and has no support or warranty obligation for the software. If any provision is invalid, the rest remains in effect. Governed by the laws of the Republic of Korea; mandatory consumer protections of your country of residence are not affected.
+
+Contact: cherub8128@gmail.com · https://github.com/cherub8128/Pi-PDF-releases/issues
