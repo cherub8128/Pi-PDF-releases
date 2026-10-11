@@ -6,6 +6,8 @@ Windows용 PDF 편집기. 페이지를 정리하고, PDF 안에 이미 있는 �
 
 **[최신 버전 내려받기](../../releases/latest)** · [pi-dimension.com](https://pi-dimension.com/)
 
+**Windows — [Microsoft Store에서 Pi PDF 설치](https://apps.microsoft.com/detail/9PFKGW6NW5SC)** (권장) · 경고 없이 설치되고 업데이트도 Store가 알아서 합니다. 아래 `.exe` 파일은 코드 서명이 없어 처음 실행할 때 SmartScreen 경고("Windows의 PC 보호")가 뜹니다. `추가 정보` → `실행`을 누르면 설치됩니다.
+
 이 저장소는 **설치 파일 배포용**입니다. 소스 코드는 공개하지 않습니다.
 
 ## 기능
